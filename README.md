@@ -17,5 +17,7 @@ and GridSearchCV.
 1. [Data Storytelling](https://github.com/terrenceturner/NBA-Salary-Prediction/blob/master/Data%20Storytelling.ipynb)
 2. [Statistical Data Analysis](https://github.com/terrenceturner/NBA-Salary-Prediction/blob/master/Statistical%20Data%20Analysis.ipynb)
 3. [In-Depth Data Analysis](https://github.com/terrenceturner/NBA-Salary-Prediction/blob/master/In-Depth%20Data%20Analysis.ipynb)
-4. Powerpoint
-5. Blog
+4. [Final Project](https://github.com/terrenceturner/NBA-Salary-Prediction/blob/master/Predicting%20NBA%20Players'%20Salaries.ipynb)
+5. Final Report
+6. Powerpoint
+7. Blog
