@@ -14,8 +14,8 @@ players stats and 2019-20 season NBA players stats. Also included are NBA player
 The repository also provides data wrangling, exploratory data analysis, and machine learning models for RandomForestRegressor 
 and GridSearchCV.
 
-1. Data Storytelling
-2. Statistical Data Analysis
-3. In-Depth Data Analysis
+1. [Data Storytelling](https://github.com/terrenceturner/NBA-Salary-Prediction/blob/master/Data%20Storytelling.ipynb)
+2. [Statistical Data Analysis](https://github.com/terrenceturner/NBA-Salary-Prediction/blob/master/Statistical%20Data%20Analysis.ipynb)
+3. [In-Depth Data Analysis](https://github.com/terrenceturner/NBA-Salary-Prediction/blob/master/In-Depth%20Data%20Analysis.ipynb)
 4. Powerpoint
 5. Blog
