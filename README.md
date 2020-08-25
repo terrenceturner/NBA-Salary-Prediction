@@ -20,4 +20,4 @@ and GridSearchCV.
 4. [Final Project](https://github.com/terrenceturner/NBA-Salary-Prediction/blob/master/Predicting%20NBA%20Players'%20Salaries.ipynb)
 5. [Final Report](https://github.com/terrenceturner/NBA-Salary-Prediction/blob/master/Capstone%20Project%201_%20Final%20Report.pdf)
 6. [Powerpoint](https://github.com/terrenceturner/NBA-Salary-Prediction/blob/master/Capstone1SlideDeck.pptx)
-7. Blog
+7. [Blog](https://medium.com/@tsturner24/predict-nba-players-salaries-using-random-forest-1496a393d87b)
